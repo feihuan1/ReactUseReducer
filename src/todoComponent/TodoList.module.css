@@ -1,0 +1,21 @@
+.TodoList{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   width: 80%;
+   margin: auto;
+   flex-wrap: nowrap;
+}
+
+.TodoList div{
+    min-width: 200px;
+}
+
+.TodoList span{
+    margin-right: 5rem;
+
+}
+
+.TodoList button{
+    margin: 7px;
+}
